@@ -1,0 +1,65 @@
+《unix网络编程》（1）源代码的使用方法
+	http://blog.csdn.net/u013074465/article/details/44280335
+《unix网络编程》（2）网络模型和协议概述
+	http://blog.csdn.net/u013074465/article/details/44313051
+《unix网络编程》（3）TCP连接的建立和终止
+	http://blog.csdn.net/u013074465/article/details/44539391
+《unix网络编程》（4）缓冲区大小及限制
+	http://blog.csdn.net/u013074465/article/details/44541209
+《unix网络编程》（5）常见的因特网协议应用
+	http://blog.csdn.net/u013074465/article/details/44541661
+《unix网络编程》（6）网络字节序 大端模式和小端模式
+	http://blog.csdn.net/u013074465/article/details/44587763
+《unix网络编程》（7）socket概述
+	http://blog.csdn.net/u013074465/article/details/44803675
+《unix网络编程》（9）TCP客户/服务器示例：TCP回射
+	http://blog.csdn.net/u013074465/article/details/44859359
+《unix网络编程》（10）wait/waitpid处理僵死进程(SIGCHLD信号)
+	http://blog.csdn.net/u013074465/article/details/44860687
+《unix网络编程》（11）tcp服务器的几种常见状况分析
+	http://blog.csdn.net/u013074465/article/details/44875319
+《unix网络编程》（12）五种I/O模型
+	http://blog.csdn.net/u013074465/article/details/44876081
+《unix网络编程》（13)select、shutdown函数
+	http://blog.csdn.net/u013074465/article/details/44876955
+《unix网络编程》（14）使用select、shutdown的客户服务器程序
+	http://blog.csdn.net/u013074465/article/details/44891295
+《unix网络编程》（15）poll函数以及使用poll的客户服务器程序
+	http://blog.csdn.net/u013074465/article/details/44901969
+《unix网络编程》（16）epoll函数
+	http://blog.csdn.net/u013074465/article/details/44964835
+《unix网络编程》（17）套接字选项
+	http://blog.csdn.net/u013074465/article/details/45031245
+《unix网络编程》（18）基本UDP套接字 简单客户服务器回射程序及改进
+	http://blog.csdn.net/u013074465/article/details/45046859
+《unix网络编程》（19）使用select的TCP和UDP回射程序
+	http://blog.csdn.net/u013074465/article/details/45082017
+《unix网络编程》（20）名字与地址转换函数
+	http://blog.csdn.net/u013074465/article/details/45199123
+《unix网络编程》（21）守护进程和inetd超级服务器
+	http://blog.csdn.net/u013074465/article/details/45225543
+-------------------------------------------------------------------------------------------
+高性能网络编程（一）----accept建立连接	
+	http://blog.csdn.net/russell_tao/article/details/9111769
+高性能网络编程2----TCP消息的发送	
+	http://blog.csdn.net/russell_tao/article/details/9370109
+高性能网络编程3----TCP消息的接收
+	http://blog.csdn.net/russell_tao/article/details/9950615
+高性能网络编程4--TCP连接的关闭
+	http://blog.csdn.net/russell_tao/article/details/13092727
+高性能网络编程5--IO复用与并发编程
+	http://blog.csdn.net/russell_tao/article/details/17119729
+高性能网络编程6--reactor反应堆与定时器管理
+	http://blog.csdn.net/russell_tao/article/details/17452997
+高性能网络编程7--tcp连接的内存使用
+	http://blog.csdn.net/russell_tao/article/details/18711023
+
+
+
+
+
+
+
+
+
+
